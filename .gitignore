@@ -42,3 +42,6 @@ libbtc.pc
 *.gcda
 *.gcov
 *.gcno
+
+depends-emcc/
+depends-emcc-stage/
